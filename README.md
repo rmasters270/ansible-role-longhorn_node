@@ -2,11 +2,11 @@
 
 Install Longhorn prereuisites for on a Kubernetes nodes.
 
-[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-longhorn_node-blue.svg)](https://galaxy.ansible.com/rmasters270/longhorn_node)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-longhorn_node-blue.svg)](https://galaxy.ansible.com/ui/standalone/roles/rmasters270/longhorn_node)
 
 ## Dependencies
 
-Use this role in conjunction with the role, [rmasters270.longhorn](https://galaxy.ansible.com/rmasters270/longhorn).
+Use this role in conjunction with the role, [rmasters270.longhorn](https://galaxy.ansible.com/ui/standalone/roles/rmasters270/longhorn).
 
 ## Example Playbook
 
